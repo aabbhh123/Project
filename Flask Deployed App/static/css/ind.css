@@ -1,0 +1,30 @@
+.coll1{
+    top: 2%;
+    text-align: center;
+}
+.display-4{
+font-weight: 150%;
+  color: rgb(12, 194, 51);
+}
+.custom-file label:hover{
+    background-color: bisque;
+
+}
+.row{
+    top:30%;
+    position: absolute;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+.coli1{
+    width: 30%;
+    font-size: 1.2vw;
+    display: inline-block;
+    margin: 1%;
+}
+.dblock{
+}
+.p5{
+    align-items: center;
+}
